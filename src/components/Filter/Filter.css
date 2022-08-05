@@ -1,0 +1,21 @@
+.filter_container {
+  display: flex;
+  flex-direction: column;
+  padding: 30px 0px;
+  background-color: white;
+  width: 30%;
+  height: 100%;
+  border-radius: 8px;
+  text-align: left;
+  box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.2s linear, background 0.2s,
+    -webkit-box-shadow 0.2s linear;
+}
+
+.filter_title {
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  color: #777;
+  padding: 0px 25px;
+}

@@ -1,0 +1,16 @@
+.buy_btn {
+  padding: 10px 20px;
+  text-align: center;
+  background-color: #ff6f32;
+  box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.1);
+  color: white;
+  font-size: 1.3em;
+  border-radius: 8px;
+  cursor: pointer;
+  border: none;
+  width: 200px;
+}
+
+.buy_btn:hover {
+  background-color: rgb(238, 117, 47);
+}
